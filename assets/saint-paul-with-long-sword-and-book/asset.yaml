@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: saint-paul-with-long-sword-and-book
+title: Saint Paul with sword and book
+description: A standing bearded man with receding brown hair and a blue halo dotted in white, in a long cream mantle over a blue robe, holds a tall sword upright against his shoulder in one hand and a closed book in the other; his head turns to the left and the mantle falls in deep folds to his feet. Black contours and flat colours with pale shading; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - reading
+subjects:
+  - apostle
+  - sword
+  - book
+  - halo
+  - robe
+  - beard
+colors:
+  - cream
+  - blue
+  - white
+  - gray
+facing: left
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2003-171/saint-peter-with-large-key
+    role: companion
+usage_notes:
+  - Faces left, toward saint-peter-with-large-key in the initial; place the two saints facing each other on either side of a heading.
+display_width:
+  - 120
+  - 360
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul"
+  object_identifier: "2003.171"
+  date: c. 1325
+  record_url: https://clevelandart.org/art/2003.171
+  image_url: https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501
+license: null

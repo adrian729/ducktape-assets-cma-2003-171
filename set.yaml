@@ -1,0 +1,21 @@
+id: cma-2003-171
+title: Cleveland 2003.171, Saints Peter and Paul initial
+summary: Saints Peter and Paul in the initial Q and its border foliage, excised from a South Flemish antiphonary of about 1325, in the Cleveland Museum of Art.
+kind: historical
+author: adrian729
+maintainer: https://github.com/adrian729/ducktape-assets/issues
+license:
+  artwork: CC0-1.0
+  notes: Extracted from Cleveland Museum of Art open access (CC0) images; see SOURCES.md.
+period: "c. 1325"
+region: South Flanders
+style: Gothic illumination
+origin:
+  institution: Cleveland Museum of Art
+  object_identifier: "2003.171"
+  record_url: https://clevelandart.org/art/2003.171
+tags:
+  - antiphonary
+  - initial
+  - saints
+  - gothic

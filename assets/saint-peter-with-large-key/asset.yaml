@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: saint-peter-with-large-key
+title: Saint Peter with a large key
+description: A standing bearded man with curly gray hair and a cream halo, in a blue mantle lined in gray over an orange-red robe, holds a large cream key over his shoulder in one hand and raises the other hand open; his head turns to the right and the mantle hangs in long folds edged with white dots. Black contours and flat colours with pale shading; the background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - apostle
+  - key
+  - halo
+  - robe
+  - beard
+colors:
+  - blue
+  - orange
+  - cream
+  - gray
+  - white
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+related:
+  - asset: cma-2003-171/saint-paul-with-long-sword-and-book
+    role: companion
+usage_notes:
+  - Faces right, toward saint-paul-with-long-sword-and-book in the initial; place the two saints facing each other on either side of a heading.
+display_width:
+  - 140
+  - 410
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul"
+  object_identifier: "2003.171"
+  date: c. 1325
+  record_url: https://clevelandart.org/art/2003.171
+  image_url: https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501
+license: null

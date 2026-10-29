@@ -1,0 +1,45 @@
+# descriptive: find it and understand it
+id: small-gray-bird-with-long-tail
+title: Crested gray bird with long tail
+description: A small pale gray-green bird stands in profile facing right with its head raised, a short crest of black strokes behind the head, a dark eye and beak, black-lined wing feathers folded along the back, a long tail dropping to the lower left and thin black legs with spread claws. Black contours over mottled pale pigment with a few pink flecks; the background is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - bird
+colors:
+  - gray
+  - black
+  - white
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: null
+render:
+  image: {}
+usage_notes:
+  - Perches naturally on a rule or the top of a frame; the claws are the lowest point.
+display_width:
+  - 100
+  - 315
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The pale pigment is mottled and the black contours slightly broken, as painted.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Cleveland Museum of Art
+  object_title: "Leaf Excised from an Antiphonary: Initial Q with Saints Peter and Paul"
+  object_identifier: "2003.171"
+  date: c. 1325
+  record_url: https://clevelandart.org/art/2003.171
+  image_url: https://openaccess-cdn.clevelandart.org/2003.171/2003.171_full.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.clevelandart.org/open-access
+  source_sha256: eba9a7e7aae900dc5b3f090a900bc62e526b68ff6465527c35efafed8ae4e501
+license: null
